@@ -40,5 +40,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="[https://www.qt.io/](https://getbootstrap.com/)" target="_blank" rel="noreferrer"> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek04&show_icons=true&locale=en&layout=compact" alt="malek04" /></p>
