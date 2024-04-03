@@ -40,7 +40,13 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="[https://www.qt.io/](https://getbootstrap.com/)" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.qt.io/](https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Reactjs" width="40" height="40"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://www.hitachivantara.com/pentaho/pentaho-plus-platform/data-integration-analytics.html" alt="Pentaho" width="40" height="40"/> </a>
+<a href="https://www.qt.io/](https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTCFN13KFUyyUtIbdruR1vSJY-uQ3sHfeUnxfuPwOcA&s" alt="Weka" width="40" height="40"/> </a>
+<a href="https://ml.cms.waikato.ac.nz/weka/" target="_blank" rel="noreferrer"> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malek04&show_icons=true&locale=en&layout=compact" alt="malek04" /></p>
