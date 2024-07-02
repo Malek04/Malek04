@@ -7,7 +7,7 @@
 
 <p align="center">📫 How to reach me <strong>malek.aiter03@gmail.com</strong></p>
 
-<table width=1000 height=800>
+<table width=2000 height=800>
     <tr>
         <td>
             <h3 align="left">Connect with me:</h3>
