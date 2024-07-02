@@ -7,8 +7,8 @@
 
 <p align="center">📫 How to reach me <strong>malek.aiter03@gmail.com</strong></p>
 
-<table width=2000 height=800>
-    <tr>
+<table >
+    <tr width=1000>
         <td>
             <h3 align="left">Connect with me:</h3>
             <p align="left">
@@ -41,7 +41,7 @@
             </p>
         </td>
     </tr>
-    <tr>
+    <tr width=1000>
         <td>
             <h3 align="left">Programming and Developing Languages:</h3>
             <p align="left">
@@ -83,7 +83,7 @@
             </p>
         </td>
     </tr>
-    <tr>
+    <tr width=1000>
         <td>
             <h3 align="left">Frameworks, Libraries, and Tools:</h3>
             <p align="left">
