@@ -7,7 +7,7 @@
 
 <p align="center">📫 How to reach me <strong>malek.aiter03@gmail.com</strong></p>
 
-<table>
+<table width=100 height=100>
     <tr>
         <td>
             <h3 align="left">Connect with me:</h3>
@@ -127,14 +127,3 @@
     </tr>
 </table>
 
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malek04&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=malek04&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malek04" alt="GitHub Streak" />
-</p>
