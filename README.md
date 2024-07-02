@@ -41,8 +41,8 @@
             </p>
         </td>
     </tr>
-    <tr width=1000>
-        <td>
+    <tr >
+        <td width=1000>
             <h3 align="left">Programming and Developing Languages:</h3>
             <p align="left">
                 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
