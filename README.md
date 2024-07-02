@@ -8,8 +8,8 @@
 <p align="center">📫 How to reach me <strong>malek.aiter03@gmail.com</strong></p>
 
 <table >
-    <tr width=1000>
-        <td>
+    <tr >
+        <td width=500>
             <h3 align="left">Connect with me:</h3>
             <p align="left">
                 <a href="https://linkedin.com/in/malek-aiter" target="_blank">
@@ -26,7 +26,7 @@
                 </a>
             </p>
         </td>
-        <td>
+        <td width=500>
             <h3 align="left">Design Tools:</h3>
             <p align="left">
                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -41,8 +41,8 @@
             </p>
         </td>
     </tr>
-    <tr >
-        <td width=1000>
+    <tr>
+        <td width=500>
             <h3 align="left">Programming and Developing Languages:</h3>
             <p align="left">
                 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -71,7 +71,7 @@
                 </a>
             </p>
         </td>
-        <td>
+        <td width=500>
             <h3 align="left">Database:</h3>
             <p align="left">
                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -83,8 +83,8 @@
             </p>
         </td>
     </tr>
-    <tr width=1000>
-        <td>
+    <tr>
+        <td width=500>
             <h3 align="left">Frameworks, Libraries, and Tools:</h3>
             <p align="left">
                 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
@@ -107,7 +107,7 @@
                 </a>
             </p>
         </td>
-        <td>
+        <td width=500>
             <h3 align="left">Version Control and OS:</h3>
             <p align="left">
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
