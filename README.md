@@ -90,7 +90,7 @@
                     <img src="https://pentaho.com/" alt="Pentaho" width="40" height="40"/>
                 </a>
                 <a href="https://www.weka.io/" target="_blank" rel="noreferrer">
-                    <img src="https://pbs.twimg.com/profile_images/3660929557/f51114d21996906179d678afe4b89e69_400x400.png" alt="Weka" width="40" height="40"/>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png?20080519211704" alt="Weka" width="40" height="40"/>
                 </a>
             </p>
         </td>
@@ -128,8 +128,8 @@
                 <a href="https://github.com/" target="_blank" rel="noreferrer">
                     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
                 </a>
-                <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+                <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+                    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/>
                 </a>
                 <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer">
                     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/windows-10-icon.svg" alt="Windows" width="40" height="40"/>
