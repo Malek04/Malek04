@@ -86,11 +86,11 @@
                 <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="Power BI" width="40" height="40"/>
                 </a>
-                <a href="https://iconape.com/wp-content/png_logo_vector/pentaho-logo.png" target="_blank" rel="noreferrer">
-                    <img src="https://pentaho.com/" alt="Pentaho" width="40" height="40"/>
+                <a href="https://pentaho.com/" target="_blank" rel="noreferrer">
+                    <img src="https://iconape.com/wp-content/png_logo_vector/pentaho-logo.png" alt="Pentaho" width="80" height="40"/>
                 </a>
                 <a href="https://www.weka.io/" target="_blank" rel="noreferrer">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png?20080519211704" alt="Weka" width="40" height="40"/>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png?20080519211704" alt="Weka" width="80" height="40"/>
                 </a>
             </p>
         </td>
