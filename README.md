@@ -87,17 +87,17 @@
         <td width=500>
             <h3 align="left">Frameworks, Libraries, and Tools:</h3>
             <p align="left">
-                <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
+                <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".Net Core" width="40" height="40"/>
+                </a>
+                <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+                    <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" width="40" height="40"/>
                 </a>
                 <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
                     <img src="https://upload.wikimedia.org/wikipedia/fr/c/cc/JavaFX_Logo.png?20190411191901" alt="JavaFX" width="80" height="40"/>
                 </a>
                 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
                     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.svg" alt="Bootstrap" width="40" height="40"/>
-                </a>
-                <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
                 </a>
                 <a href="https://gluonhq.com/products/scene-builder/" target="_blank" rel="noreferrer">
                     <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/SceneBuilderLogo.png/640px-SceneBuilderLogo.png" alt="SceneBuilder" width="40" height="40"/>
