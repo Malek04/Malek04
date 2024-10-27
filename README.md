@@ -75,13 +75,22 @@
             </p>
         </td>
         <td width=500>
-            <h3 align="left">Database:</h3>
+            <h3 align="left">Database And Business intelligence tools:</h3>
             <p align="left">
                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
                 </a>
                 <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
                     <img src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000" alt="PL/SQL" width="40" height="40"/>
+                </a>
+                <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" alt="Power BI" width="40" height="40"/>
+                </a>
+                <a href="https://iconape.com/wp-content/png_logo_vector/pentaho-logo.png" target="_blank" rel="noreferrer">
+                    <img src="https://pentaho.com/" alt="Pentaho" width="40" height="40"/>
+                </a>
+                <a href="https://www.weka.io/" target="_blank" rel="noreferrer">
+                    <img src="https://pbs.twimg.com/profile_images/3660929557/f51114d21996906179d678afe4b89e69_400x400.png" alt="Weka" width="40" height="40"/>
                 </a>
             </p>
         </td>
