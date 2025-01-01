@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Malek Aiter
+### I'm a Business Computing Student
 
-<!--
-**Malek04/Malek04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Connect with me
+Email : malek.aiter03@gmail.com
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="30" height="30" />
+  <a href="https://www.linkedin.com/in/malek-aiter" target="_blank">Linkedin</a>
+  <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode" width="30" height="30" />
+  <a href="https://www.leetcode.com/malek04" target="_blank">LeetCode</a>
+  <img src="https://img.icons8.com/?size=100&id=GO78dOMqYNlA&format=png&color=000000" alt="CodeForces" width="30" height="30" />
+  <a href="https://www.codeforces.com/profile/malek04" target="_blank">CodeForces</a>
+  <img src="https://img.icons8.com/?size=100&id=Omk4fWoSmCHm&format=png&color=000000" alt="Kaggle" width="30" height="30" />
+  <a href="https://www.kaggle.com/malek04" target="_blank">Kaggle</a>
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap5, Angular13
+- **Backend:** Java, PHP , .Net Core,  Laravel 
+- **BI and DataAnalysis:** PowerBI , Python : Numpy, Pandas, Matplotlib
+- **Databases:** MySQL
+- **Others:** Git, Github, REST APIs, SOAP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
