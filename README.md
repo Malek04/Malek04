@@ -16,7 +16,7 @@ Email : malek.aiter03@gmail.com
 
 ### 🛠️ Technologies & Tools
 - **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap5, Angular13
-- **Backend:** Java, PHP , .Net Core,  Laravel 
+- **Backend:** C# ,Java, PHP , .Net Core
 - **BI and DataAnalysis:** PowerBI , Python : Numpy, Pandas, Matplotlib
 - **Databases:** MySQL
 - **Others:** Git, Github, REST APIs, SOAP
