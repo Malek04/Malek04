@@ -1,5 +1,5 @@
 # Hi 👋, I'm Malek Aiter
-### I'm a Business Computing Student
+### I'm a junior developer
 
 ### 📫 Connect with me
 Email : malek.aiter03@gmail.com
