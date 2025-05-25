@@ -1,5 +1,5 @@
 # Hi 👋, I'm Malek Aiter
-### I'm a junior developer
+### I'm a junior software developer
 
 ### 📫 Connect with me
 Email : malek.aiter03@gmail.com
